@@ -1,4 +1,4 @@
-# wobot.ai Assignment
+# ToDo List API
 
 This is a simple REST API for creating, reading, updating and deleting todo items. It is built using FastAPI and SQLAlchemy, and includes user authentication.
 
